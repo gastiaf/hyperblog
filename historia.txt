@@ -1,5 +1,5 @@
 Este es el primer proyecto del curso de 
 
-Git & Github con el presentador Freddy Vega
+Git & Github con el presentador Freddy Vega, de Colombia
 
-Hoy hablara de su historia
+Hoy hablara de su historia.
